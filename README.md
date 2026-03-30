@@ -57,6 +57,7 @@ The platform combines **Machine Learning models**, **Streamlit UI**, and the **A
 ```bash
 git clone https://github.com/AnahitDarbinyan/Career-Compass.git
 cd Career-Compass
+```
 
 2. Install dependencies:
 ```bash
